@@ -1,2 +1,2 @@
 # SchichtplanManager
-Eine Spring Boot Web Application die das planen von schichten und dessen export in PDF Dateien vereinfacht.
+Eine Spring-Boot-Webanwendung, die das Planen von Schichten und den Export in PDF-Dateien vereinfacht.
