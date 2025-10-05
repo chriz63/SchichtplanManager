@@ -11,7 +11,3 @@ spring:
       ddl-auto: update
   flyway:
     locations: classpath:db/migration
-  logging:
-    level:
-      org.springframework: DEBUG
-      org.flywaydb: DEBUG
